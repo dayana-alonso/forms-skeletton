@@ -1,0 +1,36 @@
+.right-block{
+	width: 340px;
+	height: 580px;
+}
+
+.left-block{
+	width: 720px;
+	height: 450px;
+}
+
+.test-block{
+	width: 720px;
+	height: 110px;
+}
+
+.home-block {
+	width: 220px !important;
+	height: 70px !important;
+}
+
+.member-block {
+	width: 120px !important;
+	height: 30px !important;
+}
+
+.navbar {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+}
